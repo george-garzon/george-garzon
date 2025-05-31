@@ -1,9 +1,11 @@
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/ggolympia/ggolympia/master/profile-summary-card-output/dracula/0-profile-details.svg"></td>
+    <td><img src="https://raw.githubusercontent.com/ggolympia/ggolympia/master/profile-summary-card-output/dracula/0-profile-details.svg](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggolympia&amp;theme=city_lights"></td>
     <td><img src="https://raw.githubusercontent.com/ggolympia/ggolympia/master/profile-summary-card-output/dracula/2-most-commit-language.svg"></td>
   </tr>
 </table>
+<div class="v-image__image v-image__image--cover" style="background-image: url(&quot;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggolympia&amp;theme=city_lights&quot;); background-position: center center;"></div>
+
 
 ---
 
