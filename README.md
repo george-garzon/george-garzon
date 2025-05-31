@@ -23,6 +23,7 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Bash&color=4EAA25&style=for-the-badge&logo=gnu-bash" />
     </td>
     <td>
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Git&color=F05032&style=for-the-badge&logo=git" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=NPM&color=CB3837&style=for-the-badge&logo=npm" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Python&color=3877AB&style=for-the-badge&logo=python" />
