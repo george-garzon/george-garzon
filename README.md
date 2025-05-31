@@ -42,8 +42,6 @@
     </td>
     <td>
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Node.js&color=339933&style=for-the-badge&logo=node.js" />
-      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=.NET&color=512BD4&style=for-the-badge&logo=.net" />
-      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=MongoDB&color=47A248&style=for-the-badge&logo=mongodb" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=MySQL&color=4479A1&style=for-the-badge&logo=mysql" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Docker&color=2496ED&style=for-the-badge&logo=docker" />
     </td>
