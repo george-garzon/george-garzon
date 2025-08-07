@@ -28,8 +28,6 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Git&color=F05032&style=for-the-badge&logo=git" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=NPM&color=CB3837&style=for-the-badge&logo=npm" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Python&color=3877AB&style=for-the-badge&logo=python" />
-      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Flask&color=3aa9c2&style=for-the-badge&logo=Flask" />
-      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Django&color=092e20&style=for-the-badge&logo=Django" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Postman&color=FF6C37&style=for-the-badge&logo=postman&logoColor=FF6C37" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Swagger&color=85EA2D&style=for-the-badge&logo=swagger" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Selenium&color=43b02a&style=for-the-badge&logo=Selenium" />
@@ -58,6 +56,8 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Docker&color=2496ED&style=for-the-badge&logo=docker" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Fastify&color=ffffff&style=for-the-badge&logo=fastify" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Express&color=ffffff&style=for-the-badge&logo=Express" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Flask&color=3aa9c2&style=for-the-badge&logo=Flask" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Django&color=092e20&style=for-the-badge&logo=Django" />
     </td>
   </tr>
 </table>
