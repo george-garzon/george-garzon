@@ -34,6 +34,7 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Swagger&color=85EA2D&style=for-the-badge&logo=swagger" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Selenium&color=43b02a&style=for-the-badge&logo=Selenium" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Jenkins&color=c54a3b&style=for-the-badge&logo=Jenkins" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Claude&color=d97757&style=for-the-badge&logo=claude" />
     </td>
   </tr>
 </table>
