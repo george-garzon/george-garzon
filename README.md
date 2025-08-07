@@ -21,6 +21,9 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=CSS3&color=2965f1&style=for-the-badge&logo=css3&logoColor=2965f1" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Tailwind%20CSS&color=07B6D5&style=for-the-badge&logo=tailwindcss" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Bash&color=4EAA25&style=for-the-badge&logo=gnu-bash" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=MongoDB&color=001e2b&style=for-the-badge&logo=MongoDb" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=MariaDB&color=083b4b&style=for-the-badge&logo=MariaDb" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=ffffff&message=MySQL&color=e59208&style=for-the-badge&logo=MySQL" />
     </td>
     <td>
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=black" />
@@ -44,6 +47,7 @@
     <td>
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Next.js&color=000000&style=for-the-badge&logo=next.js" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=React&color=61DAFB&style=for-the-badge&logo=react" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Vue.js&color=4fc08d&style=for-the-badge&logo=Vue.js" />
     </td>
     <td>
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=CodeIgniter%203/4&color=EF4223&style=for-the-badge&logo=codeigniter" />
@@ -51,6 +55,9 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=PHP&color=8B96C0&style=for-the-badge&logo=php" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=MySQL&color=4479A1&style=for-the-badge&logo=mysql" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Docker&color=2496ED&style=for-the-badge&logo=docker" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Fastify&color=ffffff&style=for-the-badge&logo=fastify" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Express&color=ffffff&style=for-the-badge&logo=Express" />
+      
     </td>
   </tr>
 </table>
