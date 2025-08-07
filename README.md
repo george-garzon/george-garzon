@@ -57,7 +57,6 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Docker&color=2496ED&style=for-the-badge&logo=docker" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Fastify&color=ffffff&style=for-the-badge&logo=fastify" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Express&color=ffffff&style=for-the-badge&logo=Express" />
-      
     </td>
   </tr>
 </table>
