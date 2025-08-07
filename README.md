@@ -76,10 +76,10 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=MariaDB&color=083b4b&style=for-the-badge&logo=MariaDb" />
     </td>
     <td>
-      
     </td>
   </tr>
 </table>
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ggolympia)
